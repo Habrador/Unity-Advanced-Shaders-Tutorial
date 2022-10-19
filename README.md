@@ -5,7 +5,7 @@ Implementation of advanced shaders in Unity like raytracing, interior mapping, p
 
 ## 1. Volume rendering
 
-Volume rendering is a technique you can use to make everything from smoke to clouds. But here you will make a Death Star from Star Wars.
+Volume rendering is a technique you can use to make everything from smoke to clouds. But here you will make a Death Star from Star Wars. This is a YouTube video of the Death Star in action:
 
 [![Death Star in Unity video](http://img.youtube.com/vi/_MgfKdxa6lE/0.jpg)](http://www.youtube.com/watch?v=_MgfKdxa6lE "Death Star in Unity video")
 
