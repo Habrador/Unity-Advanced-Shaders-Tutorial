@@ -12,6 +12,8 @@ Volume rendering is a technique you can use to make everything from smoke to clo
 
 Interior mapping is a technique used to simulate floors in buildings.
 
+![Interior mapping](/_media/interior-mapping.png?raw=true)
+
 
 ## 3. Parallax mapping
 
